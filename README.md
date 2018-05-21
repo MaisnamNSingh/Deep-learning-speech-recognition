@@ -1,2 +1,2 @@
 # Deep-learning-speech-recognition
-Speech recognition
+Deep learning Speech recognition 
